@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textPrimaryColor">#212121</color>
+    <color name="textSecondaryColor">#767676</color>
+    <color name="hint_disabledTextColor">#9f9f9f</color>
+    <color name="dividerColor">#1F000000</color>
+</resources>

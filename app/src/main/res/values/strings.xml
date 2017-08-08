@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">BottomDialogMenu</string>
+    <string name="title">Bottom Menu</string>
+    <string name="copy">Copy</string>
+    <string name="cut">Cut</string>
+    <string name="paste">Paste</string>
+</resources>
