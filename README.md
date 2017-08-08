@@ -9,6 +9,7 @@ A customizable Android library to display bottom dialog menu
 - MIN-SDK Version = 15
 
 ### **Installing**
+[![](https://jitpack.io/v/Mojtaba-Shafaei/BottomDialogMenu.svg)](https://jitpack.io/#Mojtaba-Shafaei/BottomDialogMenu)
 
 ### **Screenshots**
 
