@@ -3,7 +3,7 @@
 A customizable Android library to display bottom dialog menu
 
 ## **Version**
-1.0.0
+1.0.2
 ### **Requirements**
 
 - MIN-SDK Version = 15
