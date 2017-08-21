@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 final BottomDialogMenu dialogMenu = new BottomDialogMenu();
                 dialogMenu.setDirection(BottomDialogMenu.LAYOUT_DIRECTION_RTL);
-                dialogMenu.setTitleTextRes(R.string.title);
                 dialogMenu.setTitleTextColorRes(android.R.color.holo_blue_dark);
 
                 /*

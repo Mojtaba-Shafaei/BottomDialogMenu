@@ -4,4 +4,5 @@
     <string name="copy">Copy</string>
     <string name="cut">Cut</string>
     <string name="paste">Paste</string>
+    <string name="version">Version %1$s</string>
 </resources>

@@ -58,7 +58,7 @@ public final class BottomDialogMenu extends BottomSheetDialogFragment {
     //<editor-fold desc="<<  Title  >>">
     private boolean hiddenTitle = false;
     @NonNull
-    private String title = "set title...";
+    private String title = "";
     @StringRes
     Integer titleStringResId = null;
 
@@ -226,8 +226,10 @@ public final class BottomDialogMenu extends BottomSheetDialogFragment {
             if (this.titleStringResId != null) {
                 title.setText(this.titleStringResId);
             } else {
-                if (this.title != null) {
+                if (this.title != null && !this.title.isEmpty()) {
                     title.setText(this.title);
+                }else{
+                    title.setVisibility(View.GONE);
                 }
             }
 
