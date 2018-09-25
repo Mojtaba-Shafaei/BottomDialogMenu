@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BottomDialogMenuExample.iml" filepath="$PROJECT_DIR$/BottomDialogMenuExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BottomDialogMenu.iml" filepath="$PROJECT_DIR$/BottomDialogMenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/bottomDialogMenu/bottomDialogMenu.iml" filepath="$PROJECT_DIR$/bottomDialogMenu/bottomDialogMenu.iml" />
     </modules>
